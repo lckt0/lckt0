@@ -1,5 +1,4 @@
-# PDoS
-
+## PDoS
 `Releases`
 
 - [ ] [Linux (with Python 2)](https://github.com/LockT19/PDoS/releases/download/linux/PDoS_Linux.py)
