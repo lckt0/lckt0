@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **LockT19/LockT19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# PDoS
+
+`Releases`
+
+- [ ] [Linux (with Python 2)](https://github.com/LockT19/PDoS/releases/download/linux/PDoS_Linux.py)
+- [ ] [Windows Executable](https://github.com/LockT19/PDoS/releases/download/linux/PDoS_Windows.exe)
+
+```
+Coded by LockT
+```
