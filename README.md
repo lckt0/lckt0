@@ -20,6 +20,6 @@
     <a href=""><img src="https://img.shields.io/badge/Server%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" /></a>
     <a href=""><img src="https://img.shields.io/badge/barbarbar338%20-1d202b.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>
     <a href=""><img src="https://img.shields.io/badge/ben_baris_d%20-7289DA.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
-    <a href=""><img src="https://img.shields.io/badge/Barış Demirci%20-FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" /></a>
+    <a href=""><img src="https://img.shields.io/badge/The Void%20-FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" /></a>
     <a href=""><img src="https://img.shields.io/badge/Website%20-1d202b.svg?&style=for-the-badge" /></a>
 </p>
