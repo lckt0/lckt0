@@ -18,8 +18,7 @@
     <a href="https://discord.com/users/750988343755669534"><img src="https://img.shields.io/badge/LockT%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" /></a>
     <a href=""><img src="https://img.shields.io/badge/leydihavuc%20-1d202b.svg?&style=for-the-badge&logo=npm&logoColor=white" /></a>
     <a href=""><img src="https://img.shields.io/badge/Server%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" /></a>
-    <a href=""><img src="https://img.shields.io/badge/barbarbar338%20-1d202b.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>
-    <a href=""><img src="https://img.shields.io/badge/ben_baris_d%20-7289DA.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
+    <a href=""><img src="https://img.shields.io/badge/LockT19%20-1d202b.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>
     <a href=""><img src="https://img.shields.io/badge/The Void%20-FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" /></a>
-    <a href=""><img src="https://img.shields.io/badge/Website%20-1d202b.svg?&style=for-the-badge" /></a>
+    <a href="https://lapidarydev.tk"><img src="https://img.shields.io/badge/Lapidarydev%20-1d202b.svg?&style=for-the-badge" /></a>
 </p>
