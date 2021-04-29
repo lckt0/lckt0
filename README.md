@@ -2,7 +2,7 @@
 <p align="center">
 <table>
   <tr>
-    <td>Join Discord</td>
+    <td><center>Join Discord</center></td>
      <td>Download PDoS</td>
     <td>Download Lapidary</td>
   </tr>
