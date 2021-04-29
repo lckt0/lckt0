@@ -1,4 +1,5 @@
 <h1 align="center">LockT#3341</h1>
+<center>
 <table>
   <tr>
     <td>Join Discord</td>
@@ -9,3 +10,4 @@
     <td valign="top"><img src=""></td>
   </tr>
  </table>
+</center>
