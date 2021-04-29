@@ -7,9 +7,9 @@
     <td align="center">Download Lapidary</td>
   </tr>
   <tr>
-    <td valign="center" align="center"><a href="https://discord.com/invite/AnDhD4QXcM"><img src="https://discordapp.com/api/guilds/763890366247993364/widget.png?style=banner2"></a></td>
-    <td valign="center" align="center"><a href=""><img src="https://i.imgur.com/NAe7qnB.png"></a></td>
-    <td valign="center" align="center"><a href=""><img src="https://i.imgur.com/9Nnosd9.png"></a></td>
+    <td valign="center" align="center"><a href="https://discord.com/invite/AnDhD4QXcM"><img src="https://i.imgur.com/lFM34nP.png"></a></td>
+    <td valign="center" align="center"><a href="lockt19.github.io/pdosdownload"><img src="https://i.imgur.com/NAe7qnB.png"></a></td>
+    <td valign="center" align="center"><a href="lockt19.github.io/lapidarydownload"><img src="https://i.imgur.com/9Nnosd9.png"></a></td>
   </tr>
  </table>
  </p>
