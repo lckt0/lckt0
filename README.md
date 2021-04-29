@@ -7,7 +7,7 @@
   </tr>
   <tr>
     <td valign="top"><img src="https://discordapp.com/api/guilds/763890366247993364/widget.png?style=banner2"></td>
-    <td valign="top"><img src=""></td>
+    <td valign="top"><img src="https://i.imgur.com/NAe7qnB.png"></td>
   </tr>
  </table>
 </center>
