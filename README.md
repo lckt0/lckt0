@@ -7,9 +7,9 @@
     <td align="center">Download Lapidary</td>
   </tr>
   <tr>
-    <td valign="center" align="center"><a href="https://discord.gg/zJSUheqM"><img src="https://i.imgur.com/lFM34nP.png"></a></td>
+    <td valign="center" align="center"><a href="https://discord.gg/Fv3V9Csc"><img src="https://i.imgur.com/lFM34nP.png"></a></td>
     <td valign="center" align="center"><a href="https://github.com/lckt0/PDoS/releases/tag/linux"><img src="https://i.imgur.com/NAe7qnB.png"></a></td>
-    <td valign="center" align="center"><a href="https://discord.gg/zJSUheqM"><img src="https://i.imgur.com/9Nnosd9.png"></a></td>
+    <td valign="center" align="center"><a href="https://discord.gg/Fv3V9Csc"><img src="https://i.imgur.com/9Nnosd9.png"></a></td>
   </tr>
  </table>
  </p>
