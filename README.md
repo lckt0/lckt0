@@ -16,8 +16,8 @@
 <p align="center">
   <table>
   <tr>
-    <td align="center">a</td>
-    <td align="center">a</td>
+    <td align="center"></td>
+    <td align="center"></td>
   </tr>
   <tr>
     <td valign="center" align="center"><img src="https://github-readme-stats.vercel.app/api?username=lckt0&show_icons=true&theme=radical" alt="lckt0's GitHub Stats"/></td>
