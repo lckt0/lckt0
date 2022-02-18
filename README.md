@@ -14,9 +14,16 @@
  </table>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lckt0&show_icons=true&theme=radical" alt="lckt0's GitHub Stats"/>
-![lckt0's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lckt0&show_icons=true&theme=radical)
-![lckt0's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lckt0&show_icons=true&theme=radical)
+  <table>
+  <tr>
+    <td align="center"></td>
+    <td align="center"></td>
+  </tr>
+  <tr>
+    <img src="https://github-readme-stats.vercel.app/api?username=lckt0&show_icons=true&theme=radical" alt="lckt0's GitHub Stats"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lckt0&show_icons=true&theme=radical" alt="lckt0's Top Langs"/>
+  </tr>
+ </table>
 </p>
 <p align="center">
     <a href="https://discord.com/users/750988343755669534"><img src="https://img.shields.io/badge/LockT%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" /></a>
