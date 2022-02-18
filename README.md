@@ -16,12 +16,12 @@
 <p align="center">
   <table>
   <tr>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">a</td>
+    <td align="center">a</td>
   </tr>
   <tr>
     <img src="https://github-readme-stats.vercel.app/api?username=lckt0&show_icons=true&theme=radical" alt="lckt0's GitHub Stats"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lckt0&show_icons=true&theme=radical" alt="lckt0's Top Langs"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lckt0&show_icons=true&theme=radical" alt="lckt0's Top Langs" width="495" height="195"/>
   </tr>
  </table>
 </p>
