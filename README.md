@@ -14,12 +14,14 @@
  </table>
 </p>
 <p align="center">
+  <center>
   <table>
   <tr>
     <td valign="center" align="center"><img src="https://github-readme-stats.vercel.app/api?username=lckt0&show_icons=true&theme=radical" alt="lckt0's GitHub Stats"/></td>
     <td valign="center" align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lckt0&show_icons=true&theme=radical" alt="lckt0's Top Langs" height="195"/></td>
   </tr>
  </table>
+ <center/>
 </p>
 <p align="center">
     <a href="https://discord.com/users/750988343755669534"><img src="https://img.shields.io/badge/LockT%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" /></a>
