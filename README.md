@@ -11,19 +11,6 @@
     <td valign="center" align="center"><a href="https://github.com/lckt0/PDoS/releases/tag/linux"><img src="https://i.imgur.com/NAe7qnB.png"></a></td>
     <td valign="center" align="center"><a href="https://discord.gg/Fv3V9Csc"><img src="https://i.imgur.com/9Nnosd9.png"></a></td>
   </tr>
-  <tr>
-    <td valign="center" align="center"><img src="https://github-readme-stats.vercel.app/api?username=lckt0&show_icons=true&theme=radical" alt="lckt0's GitHub Stats"/></td>
-    <td valign="center" align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lckt0&show_icons=true&theme=radical" alt="lckt0's Top Langs" height="195"/></td>
-    <td valign="center" align="center" height="195" width="295">
-      <p align="center">
-    <a href="https://discord.com/users/750988343755669534"><img src="https://img.shields.io/badge/LockT%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" /></a>
-    <a href="https://discord.gg/Fv3V9Csc"><img src="https://img.shields.io/badge/Server%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" /></a>
-    <a href="https://github.com/lckt0"><img src="https://img.shields.io/badge/LockT19%20-1d202b.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>
-    <a href="https://www.youtube.com/channel/UCYikC0hzGHzn-sVdvYhRVZw"><img src="https://img.shields.io/badge/LockT%20-FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" /></a>
-    <a href="https://lapidarydev.tk"><img src="https://img.shields.io/badge/Lapidarydev%20-1d202b.svg?&style=for-the-badge" /></a>
-</p>
-    </td>
-  </tr>
  </table>
 </p>
 <p align="center">
