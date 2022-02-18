@@ -23,7 +23,7 @@
     <a href="https://discord.com/users/750988343755669534"><img src="https://img.shields.io/badge/LockT%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" width="100" height="30/></a>
     <a href="https://discord.gg/Fv3V9Csc"><img src="https://img.shields.io/badge/Server%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" width="100" height="30/></a>
     <a href="https://github.com/lckt0"><img src="https://img.shields.io/badge/LockT19%20-1d202b.svg?&style=for-the-badge&logo=github&logoColor=white" width="100" height="30/></a>
-    <a href="https://www.youtube.com/channel/UCYikC0hzGHzn-sVdvYhRVZw"><img src="https://img.shields.io/badge/LockT%20-FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" width="125"/></a>
+    <a href="https://www.youtube.com/channel/UCYikC0hzGHzn-sVdvYhRVZw"><img src="https://img.shields.io/badge/LockT%20-FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" width="100" height="30/></a>
     <a href="https://lapidarydev.tk"><img src="https://img.shields.io/badge/Lapidarydev%20-1d202b.svg?&style=for-the-badge" width="100" height="30"/></a>
 </p>
     </td>
