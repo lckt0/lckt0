@@ -1,3 +1,8 @@
+<style>
+td, th {
+   border: none!important;
+}
+</style>
 <h1 align="center">LockT#2434</h1>
 <p align="center">
 <table>
