@@ -1,4 +1,4 @@
-<h1 align="center">LockT#3341</h1>
+<h1 align="center">LockT#2434</h1>
 <p align="center">
 <table>
   <tr>
@@ -12,7 +12,11 @@
     <td valign="center" align="center"><a href="https://discord.gg/Fv3V9Csc"><img src="https://i.imgur.com/9Nnosd9.png"></a></td>
   </tr>
  </table>
- </p>
+</p>
+<p align="center">
+![lckt0's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lckt0&show_icons=true&theme=radical)
+![lckt0's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lckt0&show_icons=true&theme=radical)
+</p>
 <p align="center">
     <a href="https://discord.com/users/750988343755669534"><img src="https://img.shields.io/badge/LockT%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" /></a>
     <a href="https://discord.gg/Fv3V9Csc"><img src="https://img.shields.io/badge/Server%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" /></a>
