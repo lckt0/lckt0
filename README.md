@@ -16,8 +16,8 @@
 <p align="center">
   <table>
   <tr>
-    <td valign="center" align="center"><img src="https://github-readme-stats.vercel.app/api?username=lckt0&show_icons=true&theme=radical" alt="lckt0's GitHub Stats"/></td>
-    <td valign="center" align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lckt0&show_icons=true&theme=radical" alt="lckt0's Top Langs" height="195"/></td>
+    <td valign="center" align="center"><img src="https://github-readme-stats.vercel.app/api?username=lckt0&show_icons=true&theme=dark" alt="lckt0's GitHub Stats"/></td>
+    <td valign="center" align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lckt0&show_icons=true&theme=dark" alt="lckt0's Top Langs" height="195"/></td>
     <td valign="center" align="center" height="195" width="195">
       <p align="center">
         <br/>
