@@ -14,6 +14,7 @@
  </table>
 </p>
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lckt0&show_icons=true&theme=radical" alt="lckt0's GitHub Stats"/>
 ![lckt0's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lckt0&show_icons=true&theme=radical)
 ![lckt0's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lckt0&show_icons=true&theme=radical)
 </p>
