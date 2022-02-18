@@ -1,4 +1,4 @@
-### Hi, I'm LockT, fullstack developer and reverse engineer.
+### 👋 Hi, I'm LockT, fullstack developer and reverse engineer.
 <p align="center">
 <table>
   <tr>
