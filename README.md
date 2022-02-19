@@ -1,4 +1,5 @@
 ### 👋 Hi, I'm LockT, fullstack developer and reverse engineer.
+![https://github.com/lckt0](https://komarev.com/ghpvc/?username=lckt0&color=green&style=flat)
 <p align="center">
 <table>
   <tr>
