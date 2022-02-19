@@ -35,7 +35,7 @@
   <a href="https://github.com/lckt0"><img align="center" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"></a>
   <a href="https://github.com/lckt0"><img align="center" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"></a>
   <a href="https://github.com/lckt0"><img align="center" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"></a>
-  &nbsp;
+  <br>
   <a href="https://github.com/lckt0"><img align="center" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"></a>
 </p>
 
