@@ -15,9 +15,9 @@
 </p>
 <p align="center">
   <a href="https://github.com/lckt0" >
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=lckt0&langs_count=6&title_color=000000&text_color=1f1f1f&icon_color=2bbc8a&bg_color=161b22" height="160px"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=lckt0&langs_count=6&theme=dark&bg_color=161b22" height="160px"/>
   </a>
   <a href="https://github.com/lckt0" >
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=lckt0&show_icons=true&line_height=27&count_private=true&title_color=000000&text_color=1f1f1f&icon_color=2bbc8a&bg_color=161b22&hide=contribs" height="160px" alt="GitHub Stats"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=lckt0&show_icons=true&line_height=27&count_private=true&theme=dark&hide=contribs" height="160px" alt="GitHub Stats"/>
   </a>
 </p>
