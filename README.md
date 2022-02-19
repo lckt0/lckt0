@@ -1,5 +1,6 @@
 ### 👋 Hi, I'm LockT, fullstack developer and reverse engineer.
 ![https://github.com/lckt0](https://komarev.com/ghpvc/?username=lckt0&color=green&style=flat)
+<!--
 <p align="center">
 <table>
   <tr>
@@ -14,6 +15,7 @@
   </tr>
  </table>
 </p>
+-->
 <p align="center">
   <a href="https://github.com/lckt0" >
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=lckt0&langs_count=6&theme=dark&bg_color=0d1117&border_color=30363d" height="160px"/>
@@ -21,4 +23,19 @@
   <a href="https://github.com/lckt0" >
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=lckt0&show_icons=true&line_height=27&count_private=true&theme=dark&bg_color=0d1117&border_color=30363d&hide=contribs" height="160px" alt="GitHub Stats"/>
   </a>
+</p>
+
+<p align="center">
+  [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://github.com/lckt0)
+  [![C-Sharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://github.com/lckt0)
+  [![Xamarin](https://img.shields.io/badge/Xamarin-3498DB?style=for-the-badge&logo=xamarin&logoColor=white)](https://github.com/lckt0)
+  [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/lckt0)
+  [![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/lckt0)
+  [![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)](https://github.com/lckt0)
+  [![dotNET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)](https://github.com/lckt0)
+  [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://github.com/lckt0)
+  [![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://github.com/lckt0)
+  [![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)](https://github.com/lckt0)
+  [![C-Sharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://github.com/lckt0)
+  [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://github.com/lckt0)
 </p>
