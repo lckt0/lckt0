@@ -16,6 +16,8 @@
  </table>
 </p>
 -->
+## &#x1f4c8; GitHub Stats
+
 <p align="center">
   <a href="https://github.com/lckt0" >
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=lckt0&langs_count=6&theme=dark&bg_color=0d1117&border_color=30363d" height="160px"/>
@@ -25,6 +27,7 @@
   </a>
 </p>
 
+<!--
 <p align="center">
   <a href="https://github.com/lckt0"><img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
   <a href="https://github.com/lckt0"><img align="center" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"></a>
@@ -37,4 +40,4 @@
   <a href="https://github.com/lckt0"><img align="center" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"></a>
   <a href="https://github.com/lckt0"><img align="center" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"></a>
 </p>
-
+-->
