@@ -14,20 +14,10 @@
  </table>
 </p>
 <p align="center">
-  <table>
-  <tr>
-    <td valign="center" align="center"><img src="https://github-readme-stats.vercel.app/api?username=lckt0&show_icons=true&theme=radical" alt="lckt0's GitHub Stats"/></td>
-    <td valign="center" align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lckt0&show_icons=true&theme=radical" alt="lckt0's Top Langs" height="195"/></td>
-    <td valign="center" align="center" height="195" width="195">
-      <p align="center">
-        <br/>
-    <a href="https://discord.com/users/750988343755669534"><img src="https://img.shields.io/badge/LockT%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" width="100" height="30/></a>
-    <a href="https://discord.gg/Fv3V9Csc"><img src="https://img.shields.io/badge/Server%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" width="100" height="30/></a>
-    <a href="https://github.com/lckt0"><img src="https://img.shields.io/badge/LockT19%20-1d202b.svg?&style=for-the-badge&logo=github&logoColor=white" width="100" height="30/></a>
-    <a href="https://www.youtube.com/channel/UCYikC0hzGHzn-sVdvYhRVZw"><img src="https://img.shields.io/badge/LockT%20-FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" width="100" height="30/></a>
-    <a href="https://lapidarydev.tk"><img src="https://img.shields.io/badge/Lapidarydev%20-1d202b.svg?&style=for-the-badge" width="100" height="30"/></a>
-</p>
-    </td>
-  </tr>
- </table>
+  <a href="https://github.com/lckt0" >
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=lckt0&langs_count=6&title_color=000000&text_color=1f1f1f&icon_color=2bbc8a&bg_color=161b22" height="160px"/>
+  </a>
+  <a href="https://github.com/lckt0" >
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=lckt0&show_icons=true&line_height=27&count_private=true&title_color=000000&text_color=1f1f1f&icon_color=2bbc8a&bg_color=161b22&hide=contribs" height="160px" alt="GitHub Stats"/>
+  </a>
 </p>
