@@ -26,7 +26,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/lckt0" alt="test">![Discord<img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
+  <a href="https://github.com/lckt0" alt="test">![Discord<img alt="test" align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
   <a href="https://github.com/lckt0" alt="test">![C-Sharp<img align="center" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"></a>
   <a href="https://github.com/lckt0" alt="test">![Xamarin<img align="center" src="https://img.shields.io/badge/Xamarin-3498DB?style=for-the-badge&logo=xamarin&logoColor=white"></a>
   <a href="https://github.com/lckt0" alt="test">![Python<img align="center" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
