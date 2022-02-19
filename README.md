@@ -26,17 +26,17 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/lckt0" ><img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=black"></a>
-  <a href="https://github.com/lckt0" ><img align="center" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=black"></a>
-  <a href="https://github.com/lckt0" ><img align="center" src="https://img.shields.io/badge/Xamarin-3498DB?style=for-the-badge&logo=xamarin&logoColor=black"></a>
-  <a href="https://github.com/lckt0" ><img align="center" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=black"></a>
-  <a href="https://github.com/lckt0" ><img align="center" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=black"></a>
-  <a href="https://github.com/lckt0" ><img align="center" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=black"></a>
-  <a href="https://github.com/lckt0" ><img align="center" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=black"></a>
-  <a href="https://github.com/lckt0" ><img align="center" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></a>
-  <a href="https://github.com/lckt0" ><img align="center" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=black"></a>
-  <a href="https://github.com/lckt0" ><img align="center" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=black"></a>
-  <a href="https://github.com/lckt0" ><img align="center" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=black"></a>
-  <a href="https://github.com/lckt0" ><img align="center" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=black"></a>
+  <a href="https://github.com/lckt0" ><img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
+  <a href="https://github.com/lckt0" ><img align="center" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"></a>
+  <a href="https://github.com/lckt0" ><img align="center" src="https://img.shields.io/badge/Xamarin-3498DB?style=for-the-badge&logo=xamarin&logoColor=white"></a>
+  <a href="https://github.com/lckt0" ><img align="center" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
+  <a href="https://github.com/lckt0" ><img align="center" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"></a>
+  <a href="https://github.com/lckt0" ><img align="center" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"></a>
+  <a href="https://github.com/lckt0" ><img align="center" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"></a>
+  <a href="https://github.com/lckt0" ><img align="center" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"></a>
+  <a href="https://github.com/lckt0" ><img align="center" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"></a>
+  <a href="https://github.com/lckt0" ><img align="center" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"></a>
+  <a href="https://github.com/lckt0" ><img align="center" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"></a>
+  <a href="https://github.com/lckt0" ><img align="center" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"></a>
 </p>
 
