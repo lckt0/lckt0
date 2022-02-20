@@ -1,6 +1,4 @@
 ### 👋 Hi, I'm LockT, fullstack developer and reverse engineer.
-### [![Image of https://github.com/lckt0/for-profile-views](https://github.com/lckt0/for-profile-views/blob/master/svg/profile/badge.svg)](https://github.com/lckt0/for-profile-views)
- people visited.
 <!--
 <p align="center">
 <table>
