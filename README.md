@@ -36,7 +36,6 @@
 &nbsp;
 &nbsp;
 &nbsp;
-<p></p>
 <a href="https://github.com/lckt0/Astro-Renamer">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lckt0&repo=Astro-Renamer&theme=dark&bg_color=0d1117&border_color=30363d"/>
 </a>
@@ -49,12 +48,9 @@
 &nbsp;
 &nbsp;
 &nbsp;
-<p></p>
 <a href="https://github.com/lckt0/DnSpyEx-Renamed">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lckt0&repo=DnSpyEx-Renamed&theme=dark&bg_color=0d1117&border_color=30363d"/>
 </a>
-<p></p>
-
 <!--
 <p align="center">
   <a href="https://github.com/lckt0"><img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
