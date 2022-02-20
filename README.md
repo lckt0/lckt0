@@ -1,5 +1,6 @@
 ### 👋 Hi, I'm LockT, fullstack developer and reverse engineer.
-#### ![Visitor Count](https://komarev.com/ghpvc/?username=lckt0&label=&color=555555&style=flat-square) people visited.
+### [![Image of https://github.com/lckt0/for-profile-views](https://github.com/lckt0/for-profile-views/blob/master/svg/profile/badge.svg)](https://github.com/lckt0/for-profile-views)
+ people visited.
 <!--
 <p align="center">
 <table>
