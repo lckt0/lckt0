@@ -39,7 +39,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lckt0&repo=DotKill-Unpacker&theme=dark&bg_color=0d1117&border_color=30363d"/>
 </a>
 <a href="https://github.com/lckt0/DnSpyEx-Renamed">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lckt0&repo=DnSpyEx-Renamed&theme=dark&bg_color=0d1117&border_color=30363d"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lckt0&repo=OpenCV-Object-Measurement&theme=dark&bg_color=0d1117&border_color=30363d"/>
 </a>
 
 ## 📨 Contact me
