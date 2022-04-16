@@ -37,8 +37,11 @@
 
 ## 📨 Contact me
 
-<a href="https://discord.com/invite/vGuB8SfV">
+<a href="https://lckt0.github.io/?url=discord">
   <img align="center" src="/assets/discord-guild-banner.png"/>
+</a>
+<a href="https://lckt0.github.io/?url=discord2">
+  <img align="center" src="https://discordapp.com/api/guilds/963823810522521651/widget.png?style=banner2"/>
 </a>
 <!--
 <p align="center">
