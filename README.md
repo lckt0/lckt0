@@ -17,7 +17,7 @@
 -->
 ## &#x1f4c8; GitHub Stats
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/lckt0" >
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=lckt0&langs_count=6&theme=dark&bg_color=0d1117&border_color=30363d" height="160px"/>
   </a>
@@ -28,21 +28,25 @@
 
 ## &#x1f4c1; Pinned projects
 
-<a href="https://github.com/lckt0/AstroNet">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lckt0&repo=AstroNet&theme=dark&bg_color=0d1117&border_color=30363d"/>
-</a>
-<a href="https://github.com/lckt0/DotKill-Unpacker">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lckt0&repo=DotKill-Unpacker&theme=dark&bg_color=0d1117&border_color=30363d"/>
-</a>
+<p align="left">
+  <a href="https://github.com/lckt0/AstroNet">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lckt0&repo=AstroNet&theme=dark&bg_color=0d1117&border_color=30363d"/>
+  </a>
+  <a href="https://github.com/lckt0/DotKill-Unpacker">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lckt0&repo=DotKill-Unpacker&theme=dark&bg_color=0d1117&border_color=30363d"/>
+  </a>
+</p>
 
 ## 📨 Contact me
 
-<a href="https://lckt0.github.io/?url=discord">
-  <img align="center" src="/assets/discord-guild-banner.png"/>
-</a>
-<a href="https://lckt0.github.io/?url=discord2">
-  <img align="center" src="https://discordapp.com/api/guilds/963823810522521651/widget.png?style=banner2"/>
-</a>
+<p align="left">
+  <a href="https://lckt0.github.io/?url=discord">
+    <img align="center" src="/assets/discord-guild-banner.png"/>
+  </a>
+  <a href="https://lckt0.github.io/?url=discord2">
+    <img align="center" src="https://discordapp.com/api/guilds/963823810522521651/widget.png?style=banner2"/>
+  </a>
+</p>
 <!--
 <p align="center">
   <a href="https://github.com/lckt0"><img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
