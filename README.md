@@ -3,12 +3,14 @@
 ## &#x1f4c8; GitHub Stats
 
 <center>
-  <a href="https://github.com/lckt0" >
-      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lckt0&hide_border=true&background=0D1117&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&fire=f04848&ring=f04848&stroke=FFFFFFFF"/>
-  </a>
+  <p align="center">
+    <a href="https://github.com/lckt0" >
+        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lckt0&hide_border=true&background=0D1117&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&fire=f04848&ring=f04848&stroke=FFFFFFFF"/>
+    </a>
+  <p>
 </center>
   
-<p align="left">
+<p align="center">
   <a href="https://github.com/lckt0" >
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=lckt0&langs_count=6&theme=dark&bg_color=0d1117&border_color=30363d" height="160px"/>
   </a>
@@ -19,7 +21,7 @@
 
 ## &#x1f4c1; Pinned projects
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/lckt0/AstroNet">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lckt0&repo=AstroNet&theme=dark&bg_color=0d1117&border_color=30363d"/>
   </a>
@@ -30,7 +32,7 @@
 
 ## 📨 Contact me
 
-<p align="left">
+<p align="center">
   <a href="https://lckt0.github.io/?url=discord">
     <img align="center" src="/assets/discord-guild-banner.png"/>
   </a>
