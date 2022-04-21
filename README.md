@@ -4,7 +4,7 @@
 
 <center>
   <a href="https://github.com/lckt0" >
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=lckt0&langs_count=6&theme=dark&bg_color=0d1117&border_color=30363d" height="160px"/>
+      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lckt0&hide_border=true&background=0D1117&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&fire=f04848&ring=f04848&stroke=FFFFFFFF"/>
   </a>
 </center>
   
