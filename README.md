@@ -36,9 +36,11 @@
   <a href="https://lckt0.github.io/?url=discord">
     <img align="center" src="/assets/discord-guild-banner.png"/>
   </a>
+  <!--
   <a href="https://lckt0.github.io/?url=discord2">
     <img align="center" src="https://discordapp.com/api/guilds/963823810522521651/widget.png?style=banner2"/>
   </a>
+  -->
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://lckt0.github.io/?url=discord">
     <img align="center" src="/assets/discord_logo.png" width="76" height="76"/>
