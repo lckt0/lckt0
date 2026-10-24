@@ -1,24 +1,17 @@
-<p align="center">
-  <a href="https://lapidarydev.com">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="assets/logo-dark.svg">
-      <img src="assets/logo-light.svg" alt="Lapidary Development" width="420">
-    </picture>
-  </a>
-</p>
-
-<br>
-
-<p align="center">
-  <a href="https://lapidarydev.com"><img src="https://img.shields.io/badge/lapidarydev.com-22c55e?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjMxIDM2IDY2IDUwIj48cGF0aCBmaWxsPSIjZmZmIiBkPSJNMzMuNSA3MGgxMWEyLjUgMi41IDAgMCAxIDIuNSAyLjV2MTFhMi41IDIuNSAwIDAgMSAtMi41IDIuNWgtMTFhMi41IDIuNSAwIDAgMSAtMi41IC0yLjV2LTExYTIuNSAyLjUgMCAwIDEgMi41IC0yLjV6TTU0IDg2TDcyLjIgMzZIODcuMkw2OSA4NlpNNzMgODZIOTdWNzNINzcuNzNaIi8%2BPC9zdmc%2B" alt="lapidarydev.com"></a>
-  <a href="mailto:burak@lapidarydev.com"><img src="https://img.shields.io/badge/burak@lapidarydev.com-0f0f0f?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BPHJlY3Qgd2lkdGg9IjIwIiBoZWlnaHQ9IjE2IiB4PSIyIiB5PSI0IiByeD0iMiIvPjxwYXRoIGQ9Im0yMiA3LTguOTcgNS43YTEuOTQgMS45NCAwIDAgMS0yLjA2IDBMMiA3Ii8%2BPC9zdmc%2B" alt="burak@lapidarydev.com"></a>
-</p>
-
 ### Hi, I'm Burak 👋
 
 Full-stack developer and reverse engineer, building software under **Lapidary Development**.
 These days I mostly work on Linux desktop tooling, KDE Plasma themes and self-hosted web apps;
 earlier I spent a lot of time taking .NET protections apart.
+
+<a href="https://lapidarydev.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/logo-dark.svg"><img src="assets/logo-light.svg" alt="Lapidary Development" width="300" align="left" hspace="12"></picture></a>
+<p>
+  <br>
+  <a href="https://lapidarydev.com"><img src="https://img.shields.io/badge/lapidarydev.com-22c55e?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjMxIDM2IDY2IDUwIj48cGF0aCBmaWxsPSIjZmZmIiBkPSJNMzMuNSA3MGgxMWEyLjUgMi41IDAgMCAxIDIuNSAyLjV2MTFhMi41IDIuNSAwIDAgMSAtMi41IDIuNWgtMTFhMi41IDIuNSAwIDAgMSAtMi41IC0yLjV2LTExYTIuNSAyLjUgMCAwIDEgMi41IC0yLjV6TTU0IDg2TDcyLjIgMzZIODcuMkw2OSA4NlpNNzMgODZIOTdWNzNINzcuNzNaIi8%2BPC9zdmc%2B" alt="lapidarydev.com"></a><br>
+  <a href="mailto:burak@lapidarydev.com"><img src="https://img.shields.io/badge/burak@lapidarydev.com-0f0f0f?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BPHJlY3Qgd2lkdGg9IjIwIiBoZWlnaHQ9IjE2IiB4PSIyIiB5PSI0IiByeD0iMiIvPjxwYXRoIGQ9Im0yMiA3LTguOTcgNS43YTEuOTQgMS45NCAwIDAgMS0yLjA2IDBMMiA3Ii8%2BPC9zdmc%2B" alt="burak@lapidarydev.com"></a>
+</p>
+
+<br clear="left">
 
 ## ⭐ Most starred
 
