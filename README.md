@@ -23,71 +23,21 @@ earlier I spent a lot of time taking .NET protections apart.
 ## ⭐ Most starred
 
 <p align="center">
-  <a href="https://github.com/lckt0/DotKill-Unpacker">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=lckt0&repo=DotKill-Unpacker&description_lines_count=2&bg_color=0d1117&border_color=30363d&title_color=22c55e&icon_color=22c55e&text_color=c9d1d9">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=lckt0&repo=DotKill-Unpacker&description_lines_count=2&bg_color=ffffff&border_color=d0d7de&title_color=0f0f0f&icon_color=22c55e&text_color=57606a" alt="DotKill-Unpacker" width="400">
-    </picture>
-  </a>
-  <a href="https://github.com/lckt0/AstroNet">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=lckt0&repo=AstroNet&description_lines_count=2&bg_color=0d1117&border_color=30363d&title_color=22c55e&icon_color=22c55e&text_color=c9d1d9">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=lckt0&repo=AstroNet&description_lines_count=2&bg_color=ffffff&border_color=d0d7de&title_color=0f0f0f&icon_color=22c55e&text_color=57606a" alt="AstroNet" width="400">
-    </picture>
-  </a>
-  <a href="https://github.com/lckt0/Astro-Renamer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=lckt0&repo=Astro-Renamer&description_lines_count=2&bg_color=0d1117&border_color=30363d&title_color=22c55e&icon_color=22c55e&text_color=c9d1d9">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=lckt0&repo=Astro-Renamer&description_lines_count=2&bg_color=ffffff&border_color=d0d7de&title_color=0f0f0f&icon_color=22c55e&text_color=57606a" alt="Astro-Renamer" width="400">
-    </picture>
-  </a>
-  <a href="https://github.com/lckt0/DnSpyEx-Renamed">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=lckt0&repo=DnSpyEx-Renamed&description_lines_count=2&bg_color=0d1117&border_color=30363d&title_color=22c55e&icon_color=22c55e&text_color=c9d1d9">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=lckt0&repo=DnSpyEx-Renamed&description_lines_count=2&bg_color=ffffff&border_color=d0d7de&title_color=0f0f0f&icon_color=22c55e&text_color=57606a" alt="DnSpyEx-Renamed" width="400">
-    </picture>
-  </a>
+  <a href="https://github.com/lckt0/DotKill-Unpacker"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=lckt0&repo=DotKill-Unpacker&description_lines_count=2&bg_color=0d1117&border_color=30363d&title_color=22c55e&icon_color=22c55e&text_color=c9d1d9"><img src="https://github-readme-stats.vercel.app/api/pin/?username=lckt0&repo=DotKill-Unpacker&description_lines_count=2&bg_color=ffffff&border_color=d0d7de&title_color=0f0f0f&icon_color=22c55e&text_color=57606a" alt="DotKill-Unpacker" width="400"></picture></a>
+  <a href="https://github.com/lckt0/AstroNet"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=lckt0&repo=AstroNet&description_lines_count=2&bg_color=0d1117&border_color=30363d&title_color=22c55e&icon_color=22c55e&text_color=c9d1d9"><img src="https://github-readme-stats.vercel.app/api/pin/?username=lckt0&repo=AstroNet&description_lines_count=2&bg_color=ffffff&border_color=d0d7de&title_color=0f0f0f&icon_color=22c55e&text_color=57606a" alt="AstroNet" width="400"></picture></a>
+  <a href="https://github.com/lckt0/Astro-Renamer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=lckt0&repo=Astro-Renamer&description_lines_count=2&bg_color=0d1117&border_color=30363d&title_color=22c55e&icon_color=22c55e&text_color=c9d1d9"><img src="https://github-readme-stats.vercel.app/api/pin/?username=lckt0&repo=Astro-Renamer&description_lines_count=2&bg_color=ffffff&border_color=d0d7de&title_color=0f0f0f&icon_color=22c55e&text_color=57606a" alt="Astro-Renamer" width="400"></picture></a>
+  <a href="https://github.com/lckt0/DnSpyEx-Renamed"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=lckt0&repo=DnSpyEx-Renamed&description_lines_count=2&bg_color=0d1117&border_color=30363d&title_color=22c55e&icon_color=22c55e&text_color=c9d1d9"><img src="https://github-readme-stats.vercel.app/api/pin/?username=lckt0&repo=DnSpyEx-Renamed&description_lines_count=2&bg_color=ffffff&border_color=d0d7de&title_color=0f0f0f&icon_color=22c55e&text_color=57606a" alt="DnSpyEx-Renamed" width="400"></picture></a>
 </p>
 
 ## 🛠️ Recent work
 
 <p align="center">
-  <a href="https://github.com/lckt0/zephyrus-g14-arch">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=lckt0&repo=zephyrus-g14-arch&description_lines_count=2&bg_color=0d1117&border_color=30363d&title_color=22c55e&icon_color=22c55e&text_color=c9d1d9">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=lckt0&repo=zephyrus-g14-arch&description_lines_count=2&bg_color=ffffff&border_color=d0d7de&title_color=0f0f0f&icon_color=22c55e&text_color=57606a" alt="zephyrus-g14-arch" width="400">
-    </picture>
-  </a>
-  <a href="https://github.com/lckt0/zephyrusctl">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=lckt0&repo=zephyrusctl&description_lines_count=2&bg_color=0d1117&border_color=30363d&title_color=22c55e&icon_color=22c55e&text_color=c9d1d9">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=lckt0&repo=zephyrusctl&description_lines_count=2&bg_color=ffffff&border_color=d0d7de&title_color=0f0f0f&icon_color=22c55e&text_color=57606a" alt="zephyrusctl" width="400">
-    </picture>
-  </a>
-  <a href="https://github.com/lckt0/iris-desktop">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=lckt0&repo=iris-desktop&description_lines_count=2&bg_color=0d1117&border_color=30363d&title_color=22c55e&icon_color=22c55e&text_color=c9d1d9">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=lckt0&repo=iris-desktop&description_lines_count=2&bg_color=ffffff&border_color=d0d7de&title_color=0f0f0f&icon_color=22c55e&text_color=57606a" alt="iris-desktop" width="400">
-    </picture>
-  </a>
-  <a href="https://github.com/lckt0/harfiyen">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=lckt0&repo=harfiyen&description_lines_count=2&bg_color=0d1117&border_color=30363d&title_color=22c55e&icon_color=22c55e&text_color=c9d1d9">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=lckt0&repo=harfiyen&description_lines_count=2&bg_color=ffffff&border_color=d0d7de&title_color=0f0f0f&icon_color=22c55e&text_color=57606a" alt="harfiyen" width="400">
-    </picture>
-  </a>
-  <a href="https://github.com/lckt0/maliyetik">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=lckt0&repo=maliyetik&description_lines_count=2&bg_color=0d1117&border_color=30363d&title_color=22c55e&icon_color=22c55e&text_color=c9d1d9">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=lckt0&repo=maliyetik&description_lines_count=2&bg_color=ffffff&border_color=d0d7de&title_color=0f0f0f&icon_color=22c55e&text_color=57606a" alt="maliyetik" width="400">
-    </picture>
-  </a>
-  <a href="https://github.com/lckt0/arch-update-gui">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=lckt0&repo=arch-update-gui&description_lines_count=2&bg_color=0d1117&border_color=30363d&title_color=22c55e&icon_color=22c55e&text_color=c9d1d9">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=lckt0&repo=arch-update-gui&description_lines_count=2&bg_color=ffffff&border_color=d0d7de&title_color=0f0f0f&icon_color=22c55e&text_color=57606a" alt="arch-update-gui" width="400">
-    </picture>
-  </a>
+  <a href="https://github.com/lckt0/zephyrus-g14-arch"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=lckt0&repo=zephyrus-g14-arch&description_lines_count=2&bg_color=0d1117&border_color=30363d&title_color=22c55e&icon_color=22c55e&text_color=c9d1d9"><img src="https://github-readme-stats.vercel.app/api/pin/?username=lckt0&repo=zephyrus-g14-arch&description_lines_count=2&bg_color=ffffff&border_color=d0d7de&title_color=0f0f0f&icon_color=22c55e&text_color=57606a" alt="zephyrus-g14-arch" width="400"></picture></a>
+  <a href="https://github.com/lckt0/zephyrusctl"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=lckt0&repo=zephyrusctl&description_lines_count=2&bg_color=0d1117&border_color=30363d&title_color=22c55e&icon_color=22c55e&text_color=c9d1d9"><img src="https://github-readme-stats.vercel.app/api/pin/?username=lckt0&repo=zephyrusctl&description_lines_count=2&bg_color=ffffff&border_color=d0d7de&title_color=0f0f0f&icon_color=22c55e&text_color=57606a" alt="zephyrusctl" width="400"></picture></a>
+  <a href="https://github.com/lckt0/iris-desktop"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=lckt0&repo=iris-desktop&description_lines_count=2&bg_color=0d1117&border_color=30363d&title_color=22c55e&icon_color=22c55e&text_color=c9d1d9"><img src="https://github-readme-stats.vercel.app/api/pin/?username=lckt0&repo=iris-desktop&description_lines_count=2&bg_color=ffffff&border_color=d0d7de&title_color=0f0f0f&icon_color=22c55e&text_color=57606a" alt="iris-desktop" width="400"></picture></a>
+  <a href="https://github.com/lckt0/harfiyen"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=lckt0&repo=harfiyen&description_lines_count=2&bg_color=0d1117&border_color=30363d&title_color=22c55e&icon_color=22c55e&text_color=c9d1d9"><img src="https://github-readme-stats.vercel.app/api/pin/?username=lckt0&repo=harfiyen&description_lines_count=2&bg_color=ffffff&border_color=d0d7de&title_color=0f0f0f&icon_color=22c55e&text_color=57606a" alt="harfiyen" width="400"></picture></a>
+  <a href="https://github.com/lckt0/maliyetik"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=lckt0&repo=maliyetik&description_lines_count=2&bg_color=0d1117&border_color=30363d&title_color=22c55e&icon_color=22c55e&text_color=c9d1d9"><img src="https://github-readme-stats.vercel.app/api/pin/?username=lckt0&repo=maliyetik&description_lines_count=2&bg_color=ffffff&border_color=d0d7de&title_color=0f0f0f&icon_color=22c55e&text_color=57606a" alt="maliyetik" width="400"></picture></a>
+  <a href="https://github.com/lckt0/arch-update-gui"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=lckt0&repo=arch-update-gui&description_lines_count=2&bg_color=0d1117&border_color=30363d&title_color=22c55e&icon_color=22c55e&text_color=c9d1d9"><img src="https://github-readme-stats.vercel.app/api/pin/?username=lckt0&repo=arch-update-gui&description_lines_count=2&bg_color=ffffff&border_color=d0d7de&title_color=0f0f0f&icon_color=22c55e&text_color=57606a" alt="arch-update-gui" width="400"></picture></a>
 </p>
 
 ## 📨 Contact
