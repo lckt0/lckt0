@@ -1,48 +1,42 @@
-### 👋 Hi, I'm LockT, fullstack developer and reverse engineer.
-
-## &#x1f4c8; GitHub Stats
-
-<center>
-  <p align="center">
-    <a href="https://github.com/lckt0" >
-        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lckt0&hide_border=true&background=0D1117&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&fire=f04848&ring=f04848&stroke=FFFFFFFF"/>
-    </a>
-  <p>
-</center>
-  
-<p align="center">
-  <a href="https://github.com/lckt0" >
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=lckt0&langs_count=6&theme=dark&bg_color=0d1117&border_color=30363d&hide_border=true&custom_title=Languages" height="160px"/>
-  </a>
-  <a href="https://github.com/lckt0" >
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=lckt0&show_icons=true&line_height=27&count_private=true&theme=dark&bg_color=0d1117&border_color=30363d&hide=issues&hide_border=true&custom_title=Stats" height="160px" alt="GitHub Stats"/>
-  </a>
-</p>
-
-## &#x1f4c1; Pinned projects
+<a href="https://lapidarydev.com">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+    <img src="assets/banner-light.svg" alt="Lapidary Development" width="100%">
+  </picture>
+</a>
 
 <p align="center">
-  <a href="https://github.com/lckt0/AstroNet">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lckt0&repo=AstroNet&theme=dark&bg_color=0d1117&border_color=30363d"/>
-  </a>
-  <a href="https://github.com/lckt0/DotKill-Unpacker">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lckt0&repo=DotKill-Unpacker&theme=dark&bg_color=0d1117&border_color=30363d"/>
-  </a>
+  <a href="https://lapidarydev.com"><img src="https://img.shields.io/badge/lapidarydev.com-22c55e?style=flat-square&logo=googlechrome&logoColor=white" alt="lapidarydev.com"></a>
+  <a href="mailto:burak@lapidarydev.com"><img src="https://img.shields.io/badge/burak@lapidarydev.com-0f0f0f?style=flat-square&logo=protonmail&logoColor=white" alt="burak@lapidarydev.com"></a>
 </p>
 
-## 📨 Contact me
+### Hi, I'm Burak 👋
 
-<p align="center">
-  <a href="https://lckt0.github.io/?url=discord">
-    <img align="center" src="/assets/discord-guild-banner.png"/>
-  </a>
-  <!--
-  <a href="https://lckt0.github.io/?url=discord2">
-    <img align="center" src="https://discordapp.com/api/guilds/963823810522521651/widget.png?style=banner2"/>
-  </a>
-  -->
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://lckt0.github.io/?url=discord">
-    <img align="center" src="/assets/discord_logo.png" width="76" height="76"/>
-  </a>
-</p>
+Full-stack developer and reverse engineer, building software under **Lapidary Development**.
+These days I mostly work on Linux desktop tooling, KDE Plasma themes and self-hosted web apps;
+earlier I spent a lot of time taking .NET protections apart.
+
+## ⭐ Most starred
+
+| Project | | Description |
+|---|---|---|
+| [**DotKill-Unpacker**](https://github.com/lckt0/DotKill-Unpacker) | ![stars](https://img.shields.io/github/stars/lckt0/DotKill-Unpacker?style=flat-square&label=%E2%98%85&color=22c55e) | Removes Anti De4Dot, junk types, math protection, anti-decompiler and control-flow protections from .NET assemblies. |
+| [**AstroNet**](https://github.com/lckt0/AstroNet) | ![stars](https://img.shields.io/github/stars/lckt0/AstroNet?style=flat-square&label=%E2%98%85&color=22c55e) | A basic .NET obfuscator built on dnlib, with modded KoiVM on decryption methods. |
+| [**Astro-Renamer**](https://github.com/lckt0/Astro-Renamer) | ![stars](https://img.shields.io/github/stars/lckt0/Astro-Renamer?style=flat-square&label=%E2%98%85&color=22c55e) | Renames strings, classes and every symbol of a .NET assembly. |
+| [**DnSpyEx-Renamed**](https://github.com/lckt0/DnSpyEx-Renamed) | ![stars](https://img.shields.io/github/stars/lckt0/DnSpyEx-Renamed?style=flat-square&label=%E2%98%85&color=22c55e) | dnSpy with every type, variable, namespace and file name renamed to "calculator". |
+
+## 🛠️ Recent work
+
+| Project | Description |
+|---|---|
+| [**zephyrus-g14-arch**](https://github.com/lckt0/zephyrus-g14-arch) | Arch Linux on the ASUS ROG Zephyrus G14 (GA403): install guide, configs, patches and custom packages, with the reasoning behind them. |
+| [**zephyrusctl**](https://github.com/lckt0/zephyrusctl) | Qt/Kirigami control panel for the Zephyrus G14 on Linux, a replacement for ROG Control Center. |
+| [**iris-desktop**](https://github.com/lckt0/iris-desktop) | A pitch-black desktop theme for KDE Plasma 6. |
+| [**harfiyen**](https://github.com/lckt0/harfiyen) | Progressive touch typing trainer for the terminal and desktop. Turkish Q/F and US layouts. |
+| [**maliyetik**](https://github.com/lckt0/maliyetik) | Self-hosted financial document management for Turkish taxpayers and accountants. |
+| [**arch-update-gui**](https://github.com/lckt0/arch-update-gui) | PySide6 + QML popup for arch-update / cachy-update on KDE Plasma. |
+
+## 📨 Contact
+
+- 🌐 [lapidarydev.com](https://lapidarydev.com)
+- ✉️ [burak@lapidarydev.com](mailto:burak@lapidarydev.com)
